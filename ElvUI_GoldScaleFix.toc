@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: ElvUI GoldScaleFix
+## Notes: ElvUI plugin to adjust gold/silver/copper icon size and offset in Gold Datatext.
+## Author: ZythDr
+## Version: 1.0
+## RequiredDeps: ElvUI
+## OptionalDeps: LibElvUIPlugin-1.0
+## X-ElvUI-Plugin: true
+
+core.lua
+GoldTweaks.lua
+locales.lua
